@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)
 <h1 align="center">Hi 👋, I'm Aakash Benarjee</h1>
-<h3 align="center"><span style="color: #ffa07a;" id="element-1"></span></h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -25,10 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashcpp&show_icons=true&locale=en&layout=compact" alt="aakashcpp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashcpp&" alt="aakashcpp" /></p>
-
-<script>
-            var typed = new Typed('#element-1', {
-                strings: ['Web Developer','Photographer','Video Editor','Web Designer','Blockchain Enthusiast'],
-                typeSpeed: 50,
-            });
-</script>
