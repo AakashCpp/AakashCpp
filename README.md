@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)
 <h1 align="center">Hi 👋, I'm Aakash Benarjee</h1>
-<h3 align="center"><span id="element-1"></span></h3>
+<h3 align="center"><span style="color: #ffa07a;" id="element-1"></span></h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
