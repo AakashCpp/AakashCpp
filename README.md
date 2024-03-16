@@ -1,5 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)
 <h1 align="center">Hi 👋, I'm Aakash Benarjee</h1>
+<h3 align="center">A passionate developer from India</h3>
 <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=38&duration=3000&pause=1000&color=34F70A&background=FFFFFF00&width=500&center=true&vCenter=true&&lines=Full+Stack+Developer;Open+Source+Contributor;Mentor+%40GDSC" alt="Typing SVG" /></a> </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
