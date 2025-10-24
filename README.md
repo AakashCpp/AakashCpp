@@ -1,27 +1,67 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)
-<h1 align="center">Hi 👋, I'm Aakash Benarjee</h1>
-<h3 align="center">A passionate developer from India</h3>
+<!-- Hero Section with Animated Typing GIF -->
+<div align="center">
+  <h1>Hi 👋, I'm Aakash Benarjee</h1>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Bug+Slayer;Coffee+Lover" alt="Typing SVG" />
+  </h3>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="350" style="border-radius:10px; margin-top:20px"/>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashcpp&label=Profile%20views&color=0e75b6&style=flat" alt="aakashcpp" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Development**
-
-- 📫 How to reach me **aakashbenarjee110@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aakash(sky)benarjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash(sky)benarjee" height="30" width="40" /></a>
-<a href="https://instagram.com/aakash._.benarjee_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash._.benarjee_." height="30" width="40" /></a>
-<a href="https://discord.gg/rollingsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rollingsky" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashcpp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashcpp&show_icons=true&locale=en&layout=compact" alt="aakashcpp" /></p>
+<!-- About Me with subtle animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5733&center=true&width=600&lines=I+build+scalable+backends;I+train+AI+models;I+love+coding+and+coffee" alt="About me typing"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashcpp&" alt="aakashcpp" /></p>
+---
+
+<!-- Social Links with Hover Animation -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://linkedin.com/in/aakash(sky)benarjee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/aakashcpp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A1A1A" alt="Twitter"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1A1A" alt="LeetCode"/>
+  </a>
+</div>
+
+---
+
+<!-- Tech Stack with pulse animation -->
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" style="animation: pulse 2s infinite;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" style="animation: pulse 2s infinite; animation-delay: 0.2s" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" style="animation: pulse 2s infinite; animation-delay: 0.4s" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="animation: pulse 2s infinite; animation-delay: 0.6s" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="animation: pulse 2s infinite; animation-delay: 0.8s" />
+</p>
+
+---
+
+<!-- GitHub Stats with gradient theme -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashcpp&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashcpp&theme=radical" alt="Streak Stats" width="45%" />
+</div>
+
+---
+
+<!-- Top Languages -->
+<div align="center" style="margin-top:20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashcpp&layout=compact&theme=radical" alt="Top Languages" />
+</div>
