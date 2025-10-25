@@ -1,67 +1,85 @@
-<!-- Hero Section with Animated Typing GIF -->
-<div align="center">
-  <h1>Hi 👋, I'm Aakash Benarjee</h1>
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Bug+Slayer;Coffee+Lover" alt="Typing SVG" />
-  </h3>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="350" style="border-radius:10px; margin-top:20px"/>
-</div>
+[![MasterHead](https://iili.io/Jz3rzqN.gif)](https://MihirJaiswal.io)
 
----
+<h1 align="center">Hello 👋, I'm Aakash ( Sky )</h1>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashcpp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=25&duration=4000&pause=3000&color=blue&background=FFFFFF00&width=1000&center=true&vCenter=true&lines=Web+Development+%7C%7C+Game+Development+%7C%7C+Data+Science" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-<!-- About Me with subtle animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5733&center=true&width=600&lines=I+build+scalable+backends;I+train+AI+models;I+love+coding+and+coffee" alt="About me typing"/>
+## 👨‍💻 About Me
+
+<img align="right" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="45%" />
+
+Hello, I'm **Aakash Benarjee**, a passionate **Web Developer** from India.  
+I enjoy writing **Code** for fun and working on exciting projects.  
+
+### 🌟 Highlights:
+- 🔭 I’m currently working on my **major project**.
+- 🌱 I’m learning **Docker** and **Three.js**.
+- 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**
+- 📫 Reach me at **aakashbenarjee202@gmail.com**.
+- ⚡ Fun fact: **I am Dead**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,npm,nodejs,express,nextjs,mongodb,git,github,postman,python,mysql,vscode,canva&theme=dark" alt="Skills" />
+  </a>
 </p>
 
 ---
 
-<!-- Social Links with Hover Animation -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://linkedin.com/in/aakash(sky)benarjee" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/aakashcpp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A1A1A" alt="Twitter"/>
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1A1A" alt="LeetCode"/>
-  </a>
-</div>
+## 📊 GitHub Stats
 
----
+<p>
+  <img align="right" width="344px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AakashCpp&show_icons=true&langs_count=7&theme=tokyonight&locale=en" alt="Top Languages" />
+  
+  <img align="center" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=AakashCpp&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+</p>
 
-<!-- Tech Stack with pulse animation -->
-<h3 align="center">Languages & Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" style="animation: pulse 2s infinite;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" style="animation: pulse 2s infinite; animation-delay: 0.2s" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" style="animation: pulse 2s infinite; animation-delay: 0.4s" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="animation: pulse 2s infinite; animation-delay: 0.6s" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="animation: pulse 2s infinite; animation-delay: 0.8s" />
+<p>
+  <img align="center" width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=AakashCpp&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" alt="Contribution Graph" />
 </p>
 
 ---
 
-<!-- GitHub Stats with gradient theme -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashcpp&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashcpp&theme=radical" alt="Streak Stats" width="45%" />
-</div>
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-<!-- Top Languages -->
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashcpp&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🔧 Fun with Code
+
+```javascript
+const Sky = {
+    pronouns: "he" | "him",
+    Languages: ["JavaScript", "TypeScript", "C++", "Python"],
+    askMeAbout: ["Web", "Games", "AI", "Anime"],
+    technologies: {
+        Frontend: {
+            langAndTools: ["HTML", "CSS", "JavaScript", 
+            "TypeScript", "Tailwind", "React.js", "Next.js"]
+        },
+        Backend: {
+            langAndTools: ["Express.js", "Node.js", "MongoDB"]
+        }
+    }
+};
