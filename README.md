@@ -72,14 +72,14 @@ I enjoy writing **Code** for fun and working on exciting projects.
 const Sky = {
     pronouns: "he" | "him",
     Languages: ["JavaScript", "TypeScript", "C++", "Python"],
-    askMeAbout: ["Web", "Games", "AI", "Anime"],
+    askMeAbout: ["Web", "Games", "CP(IYKYK)", "Anime"],
     technologies: {
         Frontend: {
             langAndTools: ["HTML", "CSS", "JavaScript", 
             "TypeScript", "Tailwind", "React.js", "Next.js"]
         },
         Backend: {
-            langAndTools: ["Express.js", "Node.js", "MongoDB"]
+            langAndTools: ["Express.js", "Node.js", "MongoDB", "Prisma", "GraphQL"]
         }
     }
 };
