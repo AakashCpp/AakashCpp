@@ -45,7 +45,7 @@ I enjoy writing **Code** for fun and working on exciting projects.
 </p>
 
 <p>
-  <img align="center" width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=AakashCpp&custom_title=Mihir's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" alt="Contribution Graph" />
+  <img align="center" width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=AakashCpp&custom_title=Aakash's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15" alt="Contribution Graph" />
 </p>
 
 ---
